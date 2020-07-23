@@ -1,0 +1,7 @@
+gravilens/Library
+gravilens/Temp
+*.csproj
+*.sln
+*.sublime-workspace
+*.userprefs
+*.apk
